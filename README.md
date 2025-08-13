@@ -33,9 +33,8 @@ Building practical, high-impact systems — from smart traffic control to person
 ## 📊 GitHub Highlights
 <div align="center">
 
-![UG's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiwiUG&show_icons=true&theme=radical&hide_border=true)  
+![UG's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiwiUG&show_icons=true&theme=radical&hide_border=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiwiUG&layout=compact&langs_count=8&theme=radical&hide_border=true)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=KiwiUG&theme=radical&hide_border=true)
 
 
 </div>
