@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm **Utsav Gautam** 👋
 
-<!--
-**KiwiUG/KiwiUG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+**CSE Undergrad · AI/ML & Edge AI Developer**  
+Building practical, high-impact systems — from smart traffic control to personalized AI tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Followers](https://img.shields.io/github/followers/KiwiUG?style=social)](https://github.com/KiwiUG?tab=followers)
+[![Stars](https://img.shields.io/github/stars/KiwiUG?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/KiwiUG?tab=repositories&type=source)
+[![Profile views](https://komarev.com/ghpvc/?username=KiwiUG&color=blueviolet)](https://github.com/KiwiUG)
+
+</div>
+
+---
+
+## 🚀 About Me
+- 🎓 **CSE Student**, SRM University · NPTEL Java Certified
+- 🧠 **Specialties:** Machine Learning, Computer Vision, AIoT
+- 🛠 Experienced in building end-to-end solutions from embedded systems to cloud AI
+- 🌱 Currently refining a **personal finance assistant** using hybrid models
+- 🌍 Based in Kathmandu, Nepal & Chennai area
+- 💼 Open to internships, research, and freelance opportunities in AI/CV/IoT
+
+---
+
+## 🧩 Tech Stack
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,nodejs,flask,swift,flutter,dart,sqlite,mysql,git,linux,arduino,opencv,pytorch,sklearn,docker,firebase&perline=10" alt="tech stack" />
+</div>
+
+---
+
+## 📊 GitHub Highlights
+<div align="center">
+
+![UG's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiwiUG&show_icons=true&theme=radical&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiwiUG&layout=compact&langs_count=8&theme=radical&hide_border=true)  
+![Streak](https://streak-stats.demolab.com?user=KiwiUG&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🌟 Career Goals
+> *To innovate at the intersection of AI, embedded systems, and real-world problem solving — delivering technology that is impactful, scalable, and user-centric.*
+
+---
+
+## 📬 Connect
+- 📫 **Email:** _your email here_
+- 💼 **LinkedIn:** _your LinkedIn URL_
+- 🌐 **Portfolio:** [kiwiug.github.io](https://kiwiug.github.io)
