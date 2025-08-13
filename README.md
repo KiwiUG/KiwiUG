@@ -5,9 +5,9 @@
 **CSE Undergrad · AI/ML & Edge AI Developer**  
 Building practical, high-impact systems — from smart traffic control to personalized AI tools.
 
-[![Followers](https://img.shields.io/github/followers/KiwiUG?style=social)](https://github.com/KiwiUG?tab=followers)
-[![Stars](https://img.shields.io/github/stars/KiwiUG?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/KiwiUG?tab=repositories&type=source)
-[![Profile views](https://komarev.com/ghpvc/?username=KiwiUG&color=blueviolet)](https://github.com/KiwiUG)
+[![Followers](https://img.shields.io/github/followers/KiwiUG?style=social)](https://github.com/KiwiUG?tab=followers) 
+[![Stars](https://img.shields.io/github/stars/KiwiUG?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/KiwiUG?tab=repositories&type=source) 
+[![Profile views](https://komarev.com/ghpvc/?username=KiwiUG&color=blueviolet)](https://github.com/KiwiUG) 
 
 </div>
 
@@ -47,6 +47,6 @@ Building practical, high-impact systems — from smart traffic control to person
 ---
 
 ## 📬 Connect
-- 📫 **Email:** _your email here_
-- 💼 **LinkedIn:** _your LinkedIn URL_
+- 📫 **Email:** utsavgautam16@gmail.com
+- 💼 **LinkedIn:** [linkdin.com/utsav](https://www.linkedin.com/in/utsav-gautam-474939277/)
 - 🌐 **Portfolio:** [kiwiug.github.io](https://kiwiug.github.io)
