@@ -29,37 +29,7 @@ Building practical, high-impact systems — from smart traffic control to person
 </div>
 
 ---
-# Hi, I'm **Utsav Gautam** 👋
 
-<div align="center">
-
-**CSE Undergrad · AI/ML & Edge AI Developer**  
-Building practical, high-impact systems — from smart traffic control to personalized AI tools.
-
-[![Followers](https://img.shields.io/github/followers/KiwiUG?style=social)](https://github.com/KiwiUG?tab=followers)
-[![Stars](https://img.shields.io/github/stars/KiwiUG?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/KiwiUG?tab=repositories&type=source)
-[![Profile views](https://komarev.com/ghpvc/?username=KiwiUG&color=blueviolet)](https://github.com/KiwiUG)
-
-</div>
-
----
-
-## 🚀 About Me
-- 🎓 **CSE Student**, SRM University · NPTEL Java Certified
-- 🧠 **Specialties:** Machine Learning, Computer Vision, AIoT
-- 🛠 Building end-to-end solutions from embedded systems to cloud AI
-- 🌱 Currently refining a **personal finance assistant** using hybrid models
-- 🌍 Based in Kathmandu, Nepal & Chennai area
-- 💼 Open to internships, research, and freelance opportunities in AI/CV/IoT
-
----
-
-## 🧩 Tech Stack
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,nodejs,flask,swift,flutter,dart,sqlite,mysql,git,linux,arduino,opencv,pytorch,sklearn,docker,firebase&perline=10" alt="tech stack" />
-</div>
-
----
 
 ## 📊 GitHub Highlights
 <div align="center">
@@ -78,19 +48,6 @@ Building practical, high-impact systems — from smart traffic control to person
 <img src="https://streak-stats.demolab.com?user=KiwiUG&theme=radical&hide_border=true" height="165px"/>
 
 </div>
-
----
-
-## 🌟 Career Goals
-> *To innovate at the intersection of AI, embedded systems, and real-world problem solving — delivering technology that is impactful, scalable, and user-centric.*
-
----
-
-## 📬 Connect
-- 📫 **Email:** _your email here_
-- 💼 **LinkedIn:** _your LinkedIn URL_
-- 🌐 **Portfolio:** [kiwiug.github.io](https://kiwiug.github.io)
-
 
 ---
 
