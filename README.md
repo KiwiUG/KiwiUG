@@ -15,7 +15,7 @@ Building practical, high-impact systems — from smart traffic control to person
 
 ## 🚀 About Me
 - 🎓 **CSE Student**, SRM University · NPTEL Java Certified
-- 🧠 **Specialties:** Machine Learning, Computer Vision, AIoT
+- 🧠 **Specialties:** Aritifical Intelligence and Machine Learning(AIML), Computer Vision, AIoT
 - 🛠 Experienced in building end-to-end solutions from embedded systems to cloud AI
 - 🌱 Currently refining a **personal finance assistant** using hybrid models
 - 🌍 Based in Kathmandu, Nepal & Chennai area
