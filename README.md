@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**CSE Undergrad · AI/ML & Edge AI Developer**  
+**CSE Undergrad · AI/ML & Edge AI Developer · Swift Developer(Learning)**  
 Building practical, high-impact systems — from smart traffic control to personalized AI tools.
 
 [![Followers](https://img.shields.io/github/followers/KiwiUG?style=social)](https://github.com/KiwiUG?tab=followers) 
