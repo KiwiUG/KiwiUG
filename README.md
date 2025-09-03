@@ -45,7 +45,6 @@ Building practical, high-impact systems — from smart traffic control to person
 </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com?user=KiwiUG&theme=radical&hide_border=true" height="165px"/>
 
 </div>
 
