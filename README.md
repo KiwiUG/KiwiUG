@@ -40,7 +40,7 @@ Building practical, high-impact systems — from smart traffic control to person
 <img src="https://github-readme-stats.vercel.app/api?username=KiwiUG&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165px"/>
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiwiUG&layout=compact&langs_count=8&theme=radical&hide_border=true&hide=html,cmake" height="165px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiwiUG&layout=compact&langs_count=8&theme=radical&hide_border=true&hide=html,cmake,css " height="165px"/>
 </td>
 </tr>
 </table>
