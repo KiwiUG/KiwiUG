@@ -14,7 +14,7 @@ Building practical, high-impact systems — from smart traffic control to person
 ---
 
 ## 🚀 About Me
-- 🎓 **CSE Student**, SRM University · NPTEL Java Certified
+- 🎓 **CSE Student**, SRM University · NPTEL Java and ML Certified
 - 🧠 **Specialties:** Aritificial Intelligence and Machine Learning(AIML), Computer Vision, AIoT
 - 🛠 Experienced in building end-to-end solutions from embedded systems to cloud AI
 - 🌱 Currently refining a **multiple ML projects** using hybrid models
